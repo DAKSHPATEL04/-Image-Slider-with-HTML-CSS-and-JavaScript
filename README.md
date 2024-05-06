@@ -35,7 +35,5 @@ JavaScript: Programming language for adding interactivity and functionality to t
 4. Add Your Images: Replace the placeholder images in the images folder with your own images to showcase your content.
 5. Integrate into Your Website: Copy and paste the HTML, CSS, and JavaScript code into your website or web application to integrate the image slider seamlessly.
 
-# Demo:
 
-A live demo of the image slider can be accessed at [Demo Link].
 
